@@ -1,6 +1,11 @@
 ### Welcome 👋
 
-
+<div align="center">
+  <a href="https://github.com/vince0417">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++">
