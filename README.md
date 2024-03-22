@@ -23,14 +23,13 @@
 <div> 
   <a href="https://codeforces.com/profile/_Vince_04" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://judge.beecrowd.com/pt/profile/610579"><img width="25" height="25" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
+  <a href = "https://judge.beecrowd.com/pt/profile/610579"><img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
  </div>
 
   ##
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/URI"> </h3> </p>
 <!--
 **vince0417/vince0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
