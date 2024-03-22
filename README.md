@@ -1,4 +1,4 @@
-  <div align="right"> <h3> - Welcome! <img src="https://em-content.zobj.net/source/skype/289/robot_1f916.png" width="28px" alt="hi"> 
+  <div align="center"> <h3> - Welcome! <img src="https://em-content.zobj.net/source/skype/289/robot_1f916.png" width="28px" alt="hi"> 
   <img src="https://em-content.zobj.net/source/skype/289/pirate-flag_1f3f4-200d-2620-fe0f.png" width="28px" alt="hi">
   </h3> </div>
 
