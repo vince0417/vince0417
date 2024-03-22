@@ -1,4 +1,8 @@
-### Welcome 👋
+  <div align="right"> <h3> - Welcome! <img src="https://em-content.zobj.net/source/skype/289/robot_1f916.png" width="28px" alt="hi"> 
+  <img src="https://em-content.zobj.net/source/skype/289/pirate-flag_1f3f4-200d-2620-fe0f.png" width="28px" alt="hi">
+  </h3> </div>
+
+  ##
 
 <div align="center">
   <a href="https://github.com/vince0417">
@@ -28,7 +32,7 @@
 
   ##
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/289/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/295/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
 <!--
 **vince0417/vince0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
