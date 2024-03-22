@@ -15,7 +15,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode">
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub">
-  <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu">
+  <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu">
 </div>
 
   ##
@@ -23,6 +23,7 @@
 <div> 
   <a href="https://codeforces.com/profile/_Vince_04" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://judge.beecrowd.com/pt/profile/610579"><img src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
  </div>
 
 <!--
