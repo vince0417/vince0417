@@ -28,7 +28,7 @@
 
   ##
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/295/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
 <!--
 **vince0417/vince0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
