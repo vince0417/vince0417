@@ -32,7 +32,7 @@
 
   ##
 
-<div align="center"> <h3> - C++ reigns in my IDE </h3> </div>
+<div align="center"> <h3> - c++ reigns in my IDE </h3> </div>
 
   ##
 
