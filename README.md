@@ -1,7 +1,9 @@
 <div align="center"> <h3> - Welcome! <img src="https://em-content.zobj.net/source/skype/289/robot_1f916.png" width="28px" alt="hi"> 
   <img src="https://em-content.zobj.net/source/skype/289/pirate-flag_1f3f4-200d-2620-fe0f.png" width="28px" alt="hi">
   </h3> </div>
+  
   ##
+  
 <div align="center">
   <a href="https://github.com/vince0417">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
@@ -19,15 +21,21 @@
   <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub">
   <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu">
 </div>
+
   ##
+  
 <div> 
   <a href="https://codeforces.com/profile/_Vince_04" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://judge.beecrowd.com/pt/profile/610579"><img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
  </div>
+ 
   ##
+  
 <div align="center"> <h3> - C++ reigns in my IDE </h3> </div>
+
   ##
+  
 <div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/295/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
 <!--
