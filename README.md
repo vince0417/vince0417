@@ -35,6 +35,10 @@
 <div align="center"> <h3> - C++ reigns in my IDE </h3> </div>
 
   ##
+
+  ![snake animation](https://github.com/<vince0417>/<vince0417>/blob/output/github-contribution-grid-snake2.svg)
+
+  ##
   
 <div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/295/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
