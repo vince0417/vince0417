@@ -10,16 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C">
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++">
-  <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript">
-  <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5">
-  <img align="center" alt="css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3">
-  <img align="center" alt="linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux">
-  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode">
-  <img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub">
-  <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu">
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<br>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,vscode,github" />
 </div>
 
   ##
