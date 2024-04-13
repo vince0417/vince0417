@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
     
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+<h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,vscode,github" />
@@ -19,6 +19,7 @@
   ##
   
 <div> 
+  <a href="https://www.linkedin.com/in/vicente-r-600705234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codeforces.com/profile/_Vince_04" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://judge.beecrowd.com/pt/profile/610579"><img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
