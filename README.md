@@ -27,7 +27,7 @@
  
   ##
   
-<div align="right"> <h3> - Thanks for visiting! <img src="https://em-content.zobj.net/source/skype/295/middle-finger_1f595.png" width="28px" alt="hi"> </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! </h3> </div> 
 <p align="right"> 
 <!--
 **vince0417/vince0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
