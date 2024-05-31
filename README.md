@@ -13,7 +13,7 @@
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,vscode,linux,github,git,SFML" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,vscode,linux,github,git" />
 </div>
 
   ##
