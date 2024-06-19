@@ -8,7 +8,10 @@
   <a href="https://github.com/vince0417">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&langs_count=7&theme=highcontrast"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=highcontrast&" alt="vince0417" /></p>
 </div>
+
+ ##
     
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
@@ -26,6 +29,7 @@
  </div>
  
   ##
-  
+
 <div align="right"> <h3> - Thanks for visiting! </h3> </div> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vince0417&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
 <p align="right"> 
