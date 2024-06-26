@@ -14,7 +14,13 @@
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,mysql,postgresql,vscode,linux,ubuntu,github,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c" />
+</div>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,nodejs,jquery,webpack,bootstrap" />
+</div>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,vscode,linux,ubuntu,github,git" />
 </div>
 
   ##
