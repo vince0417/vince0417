@@ -37,6 +37,3 @@
 <div align="right"> <h3> - Thanks for visiting! </h3> </div> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vince0417&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
 <p align="right"> 
-
-
-
