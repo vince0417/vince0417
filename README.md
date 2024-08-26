@@ -1,20 +1,20 @@
 <div align="center"> <h3> - Welcome! <img src="https://em-content.zobj.net/source/skype/289/robot_1f916.png" width="28px" alt="hi"> 
   <img src="https://em-content.zobj.net/source/skype/289/pirate-flag_1f3f4-200d-2620-fe0f.png" width="28px" alt="hi">
   </h3> </div>
-  
+
   ##
   
 <div align="center">
   <a href="https://github.com/vince0417">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&langs_count=7&theme=highcontrast"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=highcontrast&" alt="vince0417" /></p>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=github-dark&hide_border=true&" alt="vince0417" /></p>
 </div>
     
 <h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=cpp,c" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </div>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,vue,nodejs,jquery,webpack,bootstrap" />
