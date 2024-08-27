@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
 </div>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=postgresql,vscode,linux,ubuntu,github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,vscode,linux,ubuntu,github,git" />
 </div>
 
  ----
