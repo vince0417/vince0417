@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/vince0417">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=78F781&Code&center=true&width=430&lines=Welcome+to+my+profile!" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=22&pause=1000&color=78F781&Code&center=true&width=430&lines=Welcome+to+my+profile!" /></a>
 </p>
 
   ----
@@ -19,9 +19,12 @@
 </div>
 
   ----
-    
-<h2 align="center" >🛠️ Languages and Tools 🛠️</h2>
-<br>
+
+<p align="center">
+  <a href="https://github.com/vince0417">
+    <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&center=true&weight=500&size=22&pause=1000&color=35F72C&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languages+and+Tools+%F0%9F%9B%A0%EF%B8%8F" /></a>
+</p>
+
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </div>
@@ -43,6 +46,9 @@
  
   ##
 
-<div align="right"> <h3> - Thanks for visiting! </h3> </div> 
+<p align="right">
+  <a href="https://github.com/vince0417">
+    <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&right=true&pause=1000&color=35F72C&width=435&lines=-+Thanks+for+visiting!" /></a>
+</p> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vince0417&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
 <p align="right"> 
