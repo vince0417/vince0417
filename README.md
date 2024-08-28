@@ -31,10 +31,10 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
 </div>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,postgresql" />
 </div>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=postgresql,vscode,visualstudio,linux,ubuntu,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,linux,ubuntu,git,github" />
 </div>
 
  ----
