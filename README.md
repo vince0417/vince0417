@@ -49,10 +49,8 @@
   <a href = "https://judge.beecrowd.com/pt/profile/610579">
     <img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
 </div>
- 
-  ##
 
 <p align="center">
   <a href="https://github.com/vince0417">
     <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=35F72C&center=true&width=435&lines=-+Thanks+for+visiting!" /></a>
-</p>  
+</p> 
