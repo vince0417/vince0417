@@ -53,8 +53,6 @@
   ##
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vince0417&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
-<p align="center">
   <a href="https://github.com/vince0417">
     <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&pause=1000&color=35F72C&center=true&width=435&lines=-+Thanks+for+visiting!" /></a>
 </p>  
