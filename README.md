@@ -10,16 +10,19 @@
 </p>
 
   ----
-  
+
 <table>
-  <tr>
-    <div align="center">
-      <a href="https://github.com/vince0417">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=github-dark&hide_border=true&" alt="vince0417" />
-    </div>
-  </tr>
+    <tr>
+        <td align="center">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />
+        </td>
+        <td align="center">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+        </td>
+        <td align="center">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=github-dark&hide_border=true&" alt="vince0417" />
+        </td>
+    </tr>
 </table>
 
   ----
