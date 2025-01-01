@@ -45,3 +45,4 @@
   <a href = "https://judge.beecrowd.com/pt/profile/610579">
     <img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
 </div>
+
