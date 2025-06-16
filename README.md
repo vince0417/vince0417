@@ -16,7 +16,7 @@
         <td align="center">
             <img
                 align="center"
-                height="140em"
+                height="160em"
                 src="https://github-readme-stats.vercel.app/api?username=vince0417&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" 
                 alt="Github stats"
             />
@@ -24,7 +24,7 @@
         <td align="center">
             <img
                 align="center"
-                height="140em"
+                height="160em"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vince0417&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"
                 alt="Github stats"  
             />
@@ -32,7 +32,7 @@
         <td align="center">
             <img
                 align="center"
-                height="140em"
+                height="160em"
                 src="https://github-readme-streak-stats.herokuapp.com/?user=vince0417&theme=github-dark&hide_border=true&"
                 alt="Github stats"
             />
