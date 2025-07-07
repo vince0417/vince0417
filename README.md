@@ -66,6 +66,8 @@
     <img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://leetcode.com/u/Vince_r/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-white?style=for-the-badge&logo=leetcode" target="_blank"></a>
   <a href = "https://judge.beecrowd.com/pt/profile/610579">
     <img width="30" height="30" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" target="_blank"></a>
 </div>
