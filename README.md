@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,postgresql" />
 </div>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,linux,ubuntu,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,vscode,visualstudio,linux,mint,git,github" />
 </div>
 
  ----
