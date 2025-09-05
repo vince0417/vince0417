@@ -48,7 +48,10 @@
 </p>
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</div>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=c,cs,java" />
 </div>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,postgresql" />
