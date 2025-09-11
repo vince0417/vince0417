@@ -40,8 +40,7 @@
     </tr>
 </table>
 
-  ----
-
+<!--
 <p align="center">
   <a href="https://github.com/vince0417">
     <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=22&pause=1000&color=3DF77C&center=true&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Languagens+and+Tools+%F0%9F%9B%A0%EF%B8%8F" /></a>
@@ -59,14 +58,12 @@
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=cmake,vscode,qt,linux,unity,git,github" />
 </div>
-
+-->
  ----
   
 <div> 
   <a href="https://www.linkedin.com/in/vicente-r-600705234/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codeforces.com/profile/_Vince_04" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-white?style=for-the-badge&logo=Codeforces" target="_blank"></a>
   <a href = "mailto:vicenterodrigues56438@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/u/Vince_r/" target="_blank">
