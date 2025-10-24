@@ -10,7 +10,11 @@
 </p>
 
   ----
-
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vince0417&theme=github_dark" />
+  </div>
+  
+<!--
 <table>
     <tr>
         <td align="center">
@@ -39,6 +43,8 @@
         </td>
     </tr>
 </table>
+
+-->
 
 <!--
 <p align="center">
