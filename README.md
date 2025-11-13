@@ -9,6 +9,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Nerko+One&size=22&pause=1000&color=3DF77C&Code&center=true&width=430&lines=Welcome+to+my+profile!" /></a>
 </p>
 
+👾🖖 Greetings, traveler! My name’s Vicente. I’m fascinated by the world of technology and really enjoy solving programming problems as a hobby.
+
   ----
   <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vince0417&theme=github_dark" />
