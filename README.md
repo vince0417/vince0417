@@ -13,7 +13,7 @@
 
   ----
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vince0417&theme=github_dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vince0417&theme=chartreuse_dark" />
   </div>
   
 <!--
