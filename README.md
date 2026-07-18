@@ -11,12 +11,12 @@
 
 👾🖖 Greetings, traveler!
 
-  ----
+  <!--
   <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vince0417&theme=chartreuse_dark" />
   </div>
   
-<!--
+
 <table>
     <tr>
         <td align="center">
@@ -80,8 +80,10 @@
     <img width="30" height="40" src="img/bee.jpeg" target="_blank"></a>
 </div>
 
+<!--
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vince0417/vince0417/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vince0417/vince0417/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vince0417/vince0417/output/github-contribution-grid-snake.svg">
 </picture>
+-->
